@@ -3,7 +3,7 @@
 This repository provides source code for a Java socket factory that can be
 used to tunnel communication through a java.net.Proxy object, which may use an
 HTTP or SOCKS proxy.  It was originally written for use in conjunction with the
-(UnboundID LDAP SDK for Java)[https://github.com/pingidentity/ldapsdk], but it
+[(]UnboundID LDAP SDK for Java](https://github.com/pingidentity/ldapsdk), but it
 should be usable in any context that takes a javax.net.SocketFactory instance.
 
 Note that because of limitations in the Java proxy support, the following
